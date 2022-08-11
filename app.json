@@ -1,8 +1,8 @@
-36 lines (35 sloc)  1.04 KB
+lines (35 sloc)  1.04 KB
 {
-  "name": "TEST-BOT-V1",
+  "name": "Zim Bot Inc",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Moinudevil/TEST-BOT-V1",
+  "repository": "https://github.com/zim-bot/zimbot-v4",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
