@@ -1,37 +1,15 @@
-lines (35 sloc)  1.04 KB
 {
-  "name": "Zim Bot Inc",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/zim-bot/zimbot-v4",
-  "logo": "",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
-  "stack": "container",
-  "addons": [{
-  "plan": "heroku-postgresql"
-    }],
-    "env": {
-      "HEROKU_APP_NAME": {
-        "description": "Heroku app name, same as above entered",
-        "required": true
-      },
-      "HEROKU_API_KEY": {
-        "description": "Heroku account api key, https://dashboard.heroku.com/account",
-        "required": true
-      }
-    },
-  "buildpacks": [
-              {
-                
-                "url": "heroku-community/apt"
-              },
-              {
-                "url": "heroku/nodejs"
-              },
-              {
-                "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-              },
-              {
-                "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-              }
-            ]
-          }   
+    "name": "Queen Amdi 4.0.0v",
+    "description": "Queen Amdi [WA Multi-device] - A WhatsApp based third party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
+    "keywords": [
+        "Queen Amdi",
+        "WhatsApp",
+        "Black Amda",
+        "multi-device"
+    ],
+    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "success_url": "https://dashboard.heroku.com/apps/",
+    "env": { },
+    "buildpacks": [],
+    "addons": []
+}
