@@ -1,0 +1,27 @@
+{
+  "name": "DevilserMultiDevice",
+  "version": "4.0.0v",
+  "description": "Devil ser [WA Multi-device] - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.",
+  "main": "./QueenAmdi/assets/amdiModule.js",
+  "scripts": {
+    "start": "supervisor -s assets/amdiModule.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "MOINU",
+  "developer": "DEVIL SER",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/BlackAmda/QueenAmdi/issues"
+  },
+  "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.3.0",
+    "@adiwajshing/keyed-db": "^0.2.4"
+  }
+}
