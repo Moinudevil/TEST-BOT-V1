@@ -46,7 +46,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ## Developers
   <div align="center">
   
-  [![Moinu](https://telegra.ph/file/c6581a99933c5776d65d0.jpg)](https://github.com/Moinudevil/)[`Moinu`](https://github.com/Moinudevil)
+  [![Moinu](https://i.imgur.com/MBBHTRb.jpeg)](https://github.com/Moinudevil/)[`Moinu`](https://github.com/Moinudevil)
 ----|
    `Re-Devoloper`
     
