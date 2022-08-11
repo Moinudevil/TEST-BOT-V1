@@ -23,7 +23,7 @@
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReinhardTuna/ZIM-BOT-INC-QR?v=1) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Moinudevil/TEST-BOT-V1) 
 ----------
 
 
