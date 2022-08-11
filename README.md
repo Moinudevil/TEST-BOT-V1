@@ -1,5 +1,4 @@
-# Devil-Ser
-#src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=SIMPLE+MULTIE+DEVICE+BOT+CREATED+BY+DEVIL+SER
+# SIMPLE MULTIE DEVICE BOT CREATED BY DEVIL SER 🖤
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/IJbRkjL.jpeg" width="200" height="200"/>
