@@ -4,7 +4,7 @@
   <img border-radius: 15px src="https://i.imgur.com/IJbRkjL.jpeg" width="200" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/moinudheenmoinu4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/_.moinu_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/919400173699"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
